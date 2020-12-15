@@ -1,4 +1,4 @@
 # REAL_ESTATE
-Задача состоит в предсказании цен на недвижимость
-Библиотеки: sklearn, pandas, numpy, matplolib
-Данные : https://www.kaggle.com/c/realestatepriceprediction
+1. Задача состоит в предсказании цен на недвижимость
+2. Библиотеки: sklearn, pandas, numpy, matplolib
+3. Данные : https://www.kaggle.com/c/realestatepriceprediction
